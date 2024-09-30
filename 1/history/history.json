@@ -1,0 +1,1 @@
+{"d100920396d268eb46bc193de71c58e9:d41d8cd98f00b204e9800998ecf8427e":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"818d8b435effb5c8","reportUrl":"https://allure-examples.github.io/jest-pnpm-esm-js/1//#testresult/818d8b435effb5c8","status":"passed","time":{"start":1727716015987,"stop":1727716015993,"duration":6}}]}}
